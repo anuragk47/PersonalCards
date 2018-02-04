@@ -1,2 +1,2 @@
 # PersonalCards
-Personal Cards Template by Lucas Cassani uploaded.
+Personal Cards Template by Lucas Cassani.
